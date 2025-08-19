@@ -1,0 +1,7 @@
+# Node.js dependency directory
+node_modules/
+data/
+dist/
+download/
+.env
+firebase-service-account-key.json
